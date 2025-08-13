@@ -9,12 +9,12 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-### Obfuscation 
+### [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software)) 
 * Control Flow Obfuscation
 * Name Obfuscation
 * Arithmetic Obfuscation
 
-### Encryption
+### [Encryption](https://en.wikipedia.org/wiki/Encryption)
  * String Encryption,
  * Class Encryption,
  * Asset Encryption
