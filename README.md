@@ -20,16 +20,20 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-### [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software)) 
+## [Obfuscation](https://wikipedia.org/wiki/Obfuscation_(software)) 
 * Control Flow Obfuscation
 * Name Obfuscation
 * Arithmetic Obfuscation
 
-### [Encryption](https://en.wikipedia.org/wiki/Encryption)
+### [Encryption](https://wikipedia.org/wiki/Encryption)
  * String Encryption,
  * Class Encryption,
  * Asset Encryption
  * Resource Encryption
+
+### [Encoding](https://wikipedia.org/wiki/Binary-to-text_encoding)
+ * [Base64](https://wikipedia.org/wiki/Base64) 
+
 
 ##
 ### My Other Awesome Lists
